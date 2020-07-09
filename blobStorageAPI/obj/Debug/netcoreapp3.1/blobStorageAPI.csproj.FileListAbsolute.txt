@@ -23,3 +23,7 @@ C:\projetos\portfolio\blobExp\blobStorageAPI\bin\Debug\netcoreapp3.1\Azure.Stora
 C:\projetos\portfolio\blobExp\blobStorageAPI\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
 C:\projetos\portfolio\blobExp\blobStorageAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\projetos\portfolio\blobExp\blobStorageAPI\obj\Debug\netcoreapp3.1\blobStorageAPI.csproj.CopyComplete
+C:\projetos\portfolio\blobExp\blobStorageAPI\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\projetos\portfolio\blobExp\blobStorageAPI\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\projetos\portfolio\blobExp\blobStorageAPI\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\projetos\portfolio\blobExp\blobStorageAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

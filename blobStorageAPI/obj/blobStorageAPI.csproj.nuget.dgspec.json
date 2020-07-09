@@ -39,6 +39,14 @@
             "Azure.Storage.Blobs": {
               "target": "Package",
               "version": "[12.4.4, )"
+            },
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[11.1.7, )"
+            },
+            "Microsoft.Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[11.1.7, )"
             }
           },
           "imports": [
